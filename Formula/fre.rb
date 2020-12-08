@@ -2,7 +2,7 @@ class Fre < Formula
   desc "A commandline frecency tracker"
   homepage "https://github.com/camdencheek/fre"
   url "https://github.com/camdencheek/fre/archive/0.3.0.tar.gz"
-  sha256 "1bee519fe0b44f0d6b11bad5337ba5e604fdef9e712ff218915a9287b7b9164b"
+  sha256 "098aed8b4f3a451092a605e8fa21ceca086605f0e7cf0009b494b3b217c74696"
   license "MIT"
   head "https://github.com/camdencheek/fre.git"
 
